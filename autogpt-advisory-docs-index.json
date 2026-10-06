@@ -1,0 +1,254 @@
+[
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-72922.md",
+    "id": "CVE-2026-72922",
+    "title": "Webhook provider path confusion bypasses generic webhook secret verification",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-349p-3c3r-8mjr"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-4m2w-qfr5-9f3v.md",
+    "id": "GHSA-4m2w-qfr5-9f3v",
+    "title": "Preset creation can bind a foreign webhook, enabling known-ID forged victim webhook executions and exposing its signing secret",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-4m2w-qfr5-9f3v"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-56823.md",
+    "id": "CVE-2026-56823",
+    "title": "IDOR in Webhook Ping Endpoint Allows Enumeration and Cross-User Ping Triggering",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-rq9m-xvc7-v9h6"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-57mf-wqwq-6g6x.md",
+    "id": "GHSA-57mf-wqwq-6g6x",
+    "title": "Hardcoded Default Fernet Encryption Key Exposes All Stored OAuth Credentials",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-57mf-wqwq-6g6x"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-24q6-6h89-f9p7.md",
+    "id": "GHSA-24q6-6h89-f9p7",
+    "title": "Hardcoded Default JWT Secret Enables Complete Authentication Bypass",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-24q6-6h89-f9p7"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-vm4v-5hgj-rq77.md",
+    "id": "GHSA-vm4v-5hgj-rq77",
+    "title": "AutoGPT Classic: SSRF in llamafile setup script via unvalidated download URL and redirects",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-vm4v-5hgj-rq77"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-45023.md",
+    "id": "CVE-2026-45023",
+    "title": "Credit system bypassed via direct block execution in POST /api/blocks/{block_id}/execute",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-8pjg-mfqm-vrhr"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-xxpr-ccx5-48mf.md",
+    "id": "GHSA-xxpr-ccx5-48mf",
+    "title": "AutoGPT Classic: HTTP client domain allowlist bypass via userinfo and backslash URL tricks",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-xxpr-ccx5-48mf"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-vj3m-g4cv-8j93.md",
+    "id": "GHSA-vj3m-g4cv-8j93",
+    "title": "AutoGPT Classic: SSRF in web fetch commands via missing internal/private address validation",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-vj3m-g4cv-8j93"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-c543-3829-f27q.md",
+    "id": "GHSA-c543-3829-f27q",
+    "title": "AutoGPT Classic: GitHub credentials sent to arbitrary hosts via clone_repository URL",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-c543-3829-f27q"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-55237.md",
+    "id": "CVE-2026-55237",
+    "title": "DOM-Based XSS and Open Redirect in AutoGPT SignUp Page",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-j2cp-jg5q-38wj"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-4hqw-7f5j-5v66.md",
+    "id": "GHSA-4hqw-7f5j-5v66",
+    "title": "AutoGPT Classic: litellm version constraint permitted compromised releases (supply chain)",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-4hqw-7f5j-5v66"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-30950.md",
+    "id": "CVE-2026-30950",
+    "title": "Authenticated Session Hijacking via IDOR",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-q58p-v9r9-7gqj"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-56663.md",
+    "id": "CVE-2026-56663",
+    "title": "SSRF in `SendWebRequestBlock` via IPv4-mapped IPv6 / CGNAT IP-validation bypass",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-8qc5-rhmg-r6r6"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-33234.md",
+    "id": "CVE-2026-33234",
+    "title": "SendEmailBlock allows SSRF via user-controlled SMTP server, bypassing IP blocklist",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-4jwj-6mg5-wrwf"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-33233.md",
+    "id": "CVE-2026-33233",
+    "title": "Unsafe Redis cache deserialization (`pickle.loads`) would allow backend RCE in case of cache poisoning",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-rfg2-37xq-w4m9"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-33232.md",
+    "id": "CVE-2026-33232",
+    "title": "Unauthenticated DoS via Disk Space Exhaustion",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-374w-2pxq-c9jp"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-26020.md",
+    "id": "CVE-2026-26020",
+    "title": "Remote Code Execution via Disabled Block Bypass",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-4crw-9p35-9x54"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-24780.md",
+    "id": "CVE-2026-24780",
+    "title": "RCE via Disabled Block Execution",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-r277-3xc5-c79v"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-33235.md",
+    "id": "CVE-2026-33235",
+    "title": "Denial of Service (DoS) via Resource Exhaustion in text templating features",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-ppw9-h7rv-gwq9"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-3cwv-4w3r-xqff.md",
+    "id": "GHSA-3cwv-4w3r-xqff",
+    "title": "AutoGPT Classic: incomplete URL validation in forge allows SSRF in browser commands",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-3cwv-4w3r-xqff"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2026-22038.md",
+    "id": "CVE-2026-22038",
+    "title": "API Keys and Secrets Logged in Plaintext in Stagehand Integration Blocks",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-rc89-6g7g-v5v7"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-62616.md",
+    "id": "CVE-2025-62616",
+    "title": "SSRF in SendDiscordFileBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-ggc4-4fmm-9hmc"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-62615.md",
+    "id": "CVE-2025-62615",
+    "title": "SSRF in ReadRSSFeedBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-r55v-q5pc-j57f"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\ghsa-m2wr-7m3r-p52c.md",
+    "id": "GHSA-m2wr-7m3r-p52c",
+    "title": "ReDoS (Regular Expression Denial of Service) at Code Extraction Block",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-m2wr-7m3r-p52c"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-53944.md",
+    "id": "CVE-2025-53944",
+    "title": "Authorization Bypass in Graph Execution External API",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-x77j-qg2x-fgg6"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32436.md",
+    "id": "CVE-2025-32436",
+    "title": "DoS in AddAudioToVideoBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-g26x-xwc5-7p44"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32437.md",
+    "id": "CVE-2025-32437",
+    "title": "DoS in MediaDurationBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-rg6v-m9x9-7wf9"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32423.md",
+    "id": "CVE-2025-32423",
+    "title": "User-controlled regex in ExtractTextInformationBlock produces O(n^2) output, enabling memory-exhaustion DoS",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-pppq-xx2w-7jpq"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32424.md",
+    "id": "CVE-2025-32424",
+    "title": "DoS in ScreenshotWebPageBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-7g34-7fvq-xxq6"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32422.md",
+    "id": "CVE-2025-32422",
+    "title": "DoS in FileStoreBlock with StepThroughItemsBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-9fr4-9jj9-mhh6"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32425.md",
+    "id": "CVE-2025-32425",
+    "title": "Missing Docker log rotation on platform containers allows host disk-exhaustion DoS",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-vw3v-whvp-33v5"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32392.md",
+    "id": "CVE-2025-32392",
+    "title": "DoS in LoopVideoBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-267x-8jx3-gg6w"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32393.md",
+    "id": "CVE-2025-32393",
+    "title": "DoS in ReadRSSFeedBlock",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-5cqw-g779-9f9x"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-32394.md",
+    "id": "CVE-2025-32394",
+    "title": "Quadratic memory amplification in AITextSummarizerBlock chunking (DoS via attacker-controlled max_tokens/overlap)",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-955p-gpfx-r66j"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-31494.md",
+    "id": "CVE-2025-31494",
+    "title": "Cross-user sharing of node execution results through WebSockets API",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-958f-37vw-jx8f"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-31490.md",
+    "id": "CVE-2025-31490",
+    "title": "SSRF due to DNS Rebinding in requests wrapper",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-wvjg-9879-3m7w"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-31491.md",
+    "id": "CVE-2025-31491",
+    "title": "Leakage of cross-domain cookies and protected headers in requests redirect",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-ggcm-93qg-gfhp"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2025-22603.md",
+    "id": "CVE-2025-22603",
+    "title": "SSRF in AutoGPT Beta via IPv6",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-4c8v-hwxc-2356"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2023-37275.md",
+    "id": "CVE-2023-37275",
+    "title": "System logs spoofable via ANSI control sequences",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-r7f7-qrrv-3fjh"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2023-37274.md",
+    "id": "CVE-2023-37274",
+    "title": "Python code execution sandbox escape in non-docker version",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-5h38-mgp9-rj5f"
+  },
+  {
+    "file": "D:\\新建文件夹\\AutoGPT\\cve-2023-37273.md",
+    "id": "CVE-2023-37273",
+    "title": "Docker escape when running from docker-compose.yml included in git repo",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-x5gj-2chr-4ch6"
+  }
+]
